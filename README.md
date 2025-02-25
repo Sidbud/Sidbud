@@ -1,16 +1,14 @@
-## Greetings, I'm Sid. 👋
+<h1>Greetings, I'm Sid, an IT Specialist🌐</a></h1>
 
-<!--
-**Sidbud/Sidbud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Microsoft Azure☁️💻</b>
+  - [Inspecting Network Traffic in Azure](https://github.com/Sidbud/azure-network-protocols)
+  - [Installing Active Directory in Azure](https://github.com/Sidbud/AD-install)
+  - [Configuring Active Directory in Azure](https://github.com/Sidbud/AD-configuration)
+  - [Understanding DNS in Azure](https://github.com/Sidbud/DNS-intuition-building)
+- <b>osTicket (Help Desk Ticketing System) 🛠️</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/Sidbud/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Sidbud/post-install-config)
+  - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/Sidbud/ticket-lifecycle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
