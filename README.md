@@ -1,5 +1,10 @@
 <h1>Greetings, I'm Sid, an IT Specialist🌐</a></h1>
 
+<h2>🧍🏼‍♂️ Who Am I?</h2>
+    
+  I'm a self-motivated tech nerd with a strong background in customer service, technical troubleshooting, and technical knowledge. I take a proactive approach to self-improvement, staying updated with the latest IT industry trends and advancements. I created a virtualized home lab to refine technical skills and always eager to learn more and interact with new people!
+
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure☁️💻</b>
