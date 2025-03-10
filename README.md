@@ -2,7 +2,7 @@
 
 <h2>🧍🏼‍♂️ Who Am I?</h2>
     
-  I'm a self-motivated tech nerd with a strong background in customer service, technical troubleshooting, and technical knowledge. I take a proactive approach to self-improvement, staying updated with the latest IT industry trends and advancements. I created a virtualized home lab to refine technical skills and always eager to learn more and interact with new people!
+  I'm a self-motivated tech nerd with a strong background in customer service and a love for anything tech related. I enjoy learning about tech not just for career reasons but becasue I genuinely enjoy it, Cyber Security particularly interests me and is what im planning on diving into next. I created a virtualized home lab to refine technical skills and always eager to learn more and interact with new people!
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
